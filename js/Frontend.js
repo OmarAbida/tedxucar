@@ -40472,7 +40472,7 @@ var Page = function Page() {
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
     style: {
-      width: '100%',
+      maxHeight: '100%',
       margin: 'auto',
       filter: 'opacity(.5)'
     },
