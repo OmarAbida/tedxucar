@@ -40437,7 +40437,7 @@ var Page = function Page() {
       zIndex: 1
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", {
-    className: "position-absolute"
+    className: "position-absolute w-100"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("video", {
     className: "w-100 vh-100",
     autoPlay: true,
