@@ -40468,7 +40468,7 @@ var Page = function Page() {
     style: {
       display: 'flex',
       margin: 'auto',
-      minHeight: '75vh'
+      height: '75vh'
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("img", {
     style: {
